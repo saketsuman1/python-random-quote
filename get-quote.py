@@ -1,11 +1,13 @@
-def primary():
-  print("Keep it logically awesome.")
+#!/usr/bin/python3
 
-  #f = open("quotes.txt")
-  #quotes = f.readlines()
-  #f.close()
+def main():
+	print("Keep it logically awesome.")
+	print("Saket")
+	#f = open("quotes.txt")
+	#quotes = f.readlines()
+	#f.close()
 
-  #print(quotes)
+	#print(quotes)
 
-if __name__== "__main__":
-  primary()
+if __name__ == "__main__":
+	main()
